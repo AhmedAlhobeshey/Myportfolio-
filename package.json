@@ -1,7 +1,7 @@
 {
-  "homepage": "https://ahmedalhobeshey.github.io/Myportfolio-/",
-  "name": "developerfolio",
-  "version": "0.1.0",
+  "homepage": "https://ahmedalhobeshey.github.io/",
+  "name": "Myportfolio",
+  "version": "0.1.0", 
   "private": true,
   "dependencies": {
     "colorthief": "^2.3.0",
