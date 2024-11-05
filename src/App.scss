@@ -28,3 +28,34 @@
 .subTitle {
   color: $subTitle;
 }
+
+
+/* للأجهزة الكبيرة */
+@media (min-width: 1024px) {
+  body {
+    font-size: 18px;
+  }
+  .container .item {
+    flex: 1 1 30%;
+  }
+}
+
+/* للأجهزة المتوسطة */
+@media (min-width: 768px) and (max-width: 1023px) {
+  body {
+    font-size: 16px;
+  }
+  .container .item {
+    flex: 1 1 45%;
+  }
+}
+
+/* للأجهزة الصغيرة */
+@media (max-width: 767px) {
+  body {
+    font-size: 14px;
+  }
+  .container .item {
+    flex: 1 1 100%;
+  }
+}
