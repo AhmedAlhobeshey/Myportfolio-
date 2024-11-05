@@ -11,6 +11,9 @@
   padding: 20px 10px;
   margin: 0px auto;
   margin-top: 2rem;
+    direction: rtl; /* لضبط النص باتجاه اليمين إلى اليسار */
+  text-align: center;
+  font-family: 'Arial', sans-serif;
 }
 
 .greeting-main {
