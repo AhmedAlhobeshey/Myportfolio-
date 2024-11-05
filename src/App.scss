@@ -7,7 +7,8 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: auto;
+  max-width: 100%;
 }
 
 .App-header {
@@ -29,33 +30,53 @@
   color: $subTitle;
 }
 
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
-/* للأجهزة الكبيرة */
+.item {
+  flex: 1 1 45%;
+  margin: 10px;
+}
+
 @media (min-width: 1024px) {
-  body {
-    font-size: 18px;
-  }
-  .container .item {
+  .item {
     flex: 1 1 30%;
   }
 }
 
-/* للأجهزة المتوسطة */
+@media (max-width: 767px) {
+  .item {
+    flex: 1 1 100%;
+  }
+}
+
+/* استعلامات الوسائط */
+@media (min-width: 1024px) {
+  body {
+    font-size: 18px;
+  }
+  .App-header {
+    flex-direction: row;
+  }
+}
+
 @media (min-width: 768px) and (max-width: 1023px) {
   body {
     font-size: 16px;
   }
-  .container .item {
-    flex: 1 1 45%;
+  .App-header {
+    flex-direction: column;
   }
 }
 
-/* للأجهزة الصغيرة */
 @media (max-width: 767px) {
   body {
     font-size: 14px;
   }
-  .container .item {
-    flex: 1 1 100%;
+  .App-header {
+    flex-direction: column;
   }
 }
