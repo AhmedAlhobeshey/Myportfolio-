@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Ahmed",
+  username: "Ahmed Mahyoub",
   title: "مرحبًا بالجميع، انا احمد مهيوب",
   
   subTitle: emoji(`
@@ -62,12 +62,22 @@ const skillsSection = {
   subTitle: '🌟 **مطور برامج Full Stack مبدع بخبرة واسعة يسعى لاستكشاف وتطبيق أحدث التقنيات!** 🚀' ,
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ تطوير واجهات مستخدم تفاعلية ومبتكرة لتطبيقات الويب والمحمول."
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("🔍 تصميم وتطوير الأنظمة المكتبية المحاسبية لتحسين كفاءة الأعمال."),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+      "💾 إدارة قواعد البيانات لضمان توافر البيانات وسهولة الوصول إليها."
+    ),
+    emoji("📱 تصميم وبرمجة تطبيقات الهاتف."),
+    emoji(
+      "🔧 إعداد التقارير وتحليل البيانات."
+    ),
+    emoji("🛠️ تقديم الدعم الفني وصيانة مواقع الشركة."),
+    emoji("🚛 ربط المتاجر الإلكترونية بشركات الشحن."),
+    emoji(
+      "💳 تكامل حلول الدفع الإلكتروني."
+    ),
+    emoji("🛒 تطوير منصات التجارة الإلكترونية.")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -119,14 +129,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
+
   ],
   display: true // Set false to hide this section, defaults to true
 };
