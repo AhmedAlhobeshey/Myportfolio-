@@ -59,7 +59,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "مالذي الذي أقوم" ,
-  subTitle: "🌟 **مطور برامج Full Stack مبدع بخبرة واسعة يسعى لاستكشاف وتطبيق أحدث التقنيات!** 🚀",
+  subTitle: '🌟 **مطور برامج Full Stack مبدع بخبرة واسعة يسعى لاستكشاف وتطبيق أحدث التقنيات!** 🚀' ,
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -75,32 +75,32 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Laravel",
+      fontAwesomeClassname: "fab fa-laravel"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "Flutter",
+      fontAwesomeClassname: "fab fa-flutter"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "C#",
+      fontAwesomeClassname: "fas fa-code"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      skillName: "Vb.Net",
+      fontAwesomeClassname: "fas fa-code"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "WordPress",
+      fontAwesomeClassname: "fab fa-wordpress"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "SQL-Database",
+      fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "Oracle",
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "npm",
@@ -111,9 +111,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      skillName: "Jasper Report",
+      fontAwesomeClassname: "fas fa-chart-bar"
     },
+    
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
