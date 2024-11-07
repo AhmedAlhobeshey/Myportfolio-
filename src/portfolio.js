@@ -191,36 +191,49 @@ const techStack = {
 
 // Work experience section
 
+
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "مطور برامج",
+      company: "National Cash Transfer Co.",
+      companylogo: require("./assets/images/nctLogo.png"), // تأكد من وجود شعار الشركة في المسار المحدد
+      date: "يناير 2022 – حتى الآن",
+      desc: "تطوير أنظمة الشركة، إعداد التقارير، والدعم الفني لمشاريع اليونيسف.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "تطوير أنظمة الشركة.",
+        "إعداد التقارير باستخدام Jasper Report و Oracle Apex.",
+        "تقديم الدعم الفني لموظفي الشركة في مشاريع اليونيسف.",
+        "صيانة وتطوير مواقع الشركة."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "مطور أنظمة",
+      company: "Ysys Co.",
+      companylogo: require("./assets/images/ysysLogo.png"), // تأكد من وجود شعار الشركة في المسار المحدد
+      date: "أكتوبر 2021 – ديسمبر 2022",
+      desc: "إنشاء وتطوير منصة لبناء وإدارة المتاجر الإلكترونية باستخدام إطار عمل Laravel.",
+      descBullets: [
+        "تطوير وصيانة تطبيقات الويب.",
+        "إنشاء وتطوير منصة لبناء وإدارة المتاجر الإلكترونية."
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "مطور متاجر إلكترونية",
+      company: "مؤسسة اللؤلؤ الأسود للعود والعطور - السعودية - الرياض .",
+      companylogo: require("./assets/images/blackPearlLogo.png"), // تأكد من وجود شعار الشركة في المسار المحدد
+      date: "فبراير 2021 – فبراير 2022",
+      desc: "تطوير وإنشاء متجر إلكتروني بناءً على متطلبات العملاء.",
+      descBullets: [
+        "تطوير وإنشاء متجر إلكتروني بناءً على متطلبات العملاء.",
+        "العمل مع فرق متعددة التخصصات لتنفيذ المشاريع المشتركة وتحقيق الأهداف في الوقت المحدد."
+      ]
     }
   ]
 };
+
+
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
