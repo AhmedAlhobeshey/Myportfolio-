@@ -140,14 +140,14 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "جامعة تعز",
+      logo: require("./assets/images/taizUniversityLogo.png"),
+      subHeader: "بكالوريوس نظم المعلومات الإدارية",
+      duration: "سبتمبر 2019 - يوليو 2022",
+      desc: "تخصصت في نظم المعلومات الإدارية، مع التركيز على تطوير البرمجيات وإدارة قواعد البيانات.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "إنجاز مشاريع متعددة في تصميم وتطوير الأنظمة المكتبية المحاسبية."
+        "اكتساب مهارات برمجة متقدمة من خلال الدورات عبر الإنترنت في Vb.Net و C# و PHP."
       ]
     },
     {
