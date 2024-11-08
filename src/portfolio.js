@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Ahmed Mahyoub",
+  username: "Ahmed",
   title: "مرحبًا بالجميع، انا احمد مهيوب",
   
   subTitle: emoji(`
@@ -118,7 +118,7 @@ https://fontawesome.com/icons?d=gallery */
     },
 
     {
-      skillName: "Jasper & Crystal Report ",
+      skillName: "Jasper",
       fontAwesomeClassname: "fas fa-chart-bar"
     },
 
@@ -421,7 +421,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true// Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -445,7 +445,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -464,7 +464,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -477,26 +477,25 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // اضبطه إلى false لإخفاء هذا القسم، الافتراضي هو true
 };
 
 // Resume Section
 const resumeSection = {
-  title: "Resume",
-  subtitle: "Feel free to download my resume",
+  title: "السيرة الذاتية",
+  subtitle: "مشاهدة سيرتي الذاتية. لا تتردد في تنزيل سيرتي الذاتية.",
 
   // Please Provide with Your Podcast embeded Link
   display: true // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  title: emoji("تواصل معي ☎️"),
+  subtitle: "سواء كنت ترغب في مناقشة مشروع أو تحتاج إلى بعض المساعدة، صندوق الوارد الخاص بي مفتوح للجميع. أنا هنا للاستماع إلى أفكارك ومساعدتك في تحقيق رؤيتك.",
+  number: "+967735882518",
+  email_address: "ahmed20122012123@gmail.com",
+  whatsappLink: "https://wa.me/967735882518" // رابط المحادثة عبر الواتساب
 };
-
 // Twitter Section
 
 const twitterDetails = {
