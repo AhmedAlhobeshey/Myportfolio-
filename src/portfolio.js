@@ -58,18 +58,27 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: "مالذي الذي أقوم" ,
+  subTitle: '🌟 **مطور برامج Full Stack مبدع بخبرة واسعة يسعى لاستكشاف وتطبيق أحدث التقنيات!** 🚀' ,
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ تطوير واجهات مستخدم تفاعلية ومبتكرة لتطبيقات الويب والمحمول."
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("🔍 تصميم وتطوير الأنظمة المكتبية المحاسبية لتحسين كفاءة الأعمال."),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+      "💾 إدارة قواعد البيانات لضمان توافر البيانات وسهولة الوصول إليها."
+    ),
+    emoji("📱 تصميم وبرمجة تطبيقات الهاتف."),
+    emoji(
+      "🔧 إعداد التقارير وتحليل البيانات."
+    ),
+    emoji("🛠️ تقديم الدعم الفني وصيانة مواقع الشركة."),
+    emoji("🚛 ربط المتاجر الإلكترونية بشركات الشحن."),
+    emoji(
+      "💳 تكامل حلول الدفع الإلكتروني."
+    ),
+    emoji("🛒 تطوير منصات التجارة الإلكترونية.")
   ],
-
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
@@ -107,12 +116,12 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
     },
-    
+
     {
       skillName: "Jasper & Crystal Report ",
       fontAwesomeClassname: "fas fa-chart-bar"
     },
-    
+
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
@@ -121,6 +130,7 @@ https://fontawesome.com/icons?d=gallery */
   ],
   display: true // Set false to hide this section, defaults to true
 };
+
 
 // Education Section
 
