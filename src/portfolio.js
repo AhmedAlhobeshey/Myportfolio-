@@ -193,7 +193,7 @@ const techStack = {
 
 
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: true, // Set it to true to show workExperiences Section
   experience: [
     {
       role: "مطور برامج",
@@ -221,7 +221,7 @@ const workExperiences = {
     },
     {
       role: "مطور متاجر إلكترونية",
-      company: "مؤسسة اللؤلؤ الأسود للعود والعطور - السعودية - الرياض .",
+      company: "مؤسسة اللؤلؤ الأسود للعود والعطور - السعودية - الرياض",
       companylogo: require("./assets/images/blackPearlLogo.png"), // تأكد من وجود شعار الشركة في المسار المحدد
       date: "فبراير 2021 – فبراير 2022",
       desc: "تطوير وإنشاء متجر إلكتروني بناءً على متطلبات العملاء.",
@@ -232,7 +232,6 @@ const workExperiences = {
     }
   ]
 };
-
 
 
 /* Your Open Source Section to View Your Github Pinned Projects
