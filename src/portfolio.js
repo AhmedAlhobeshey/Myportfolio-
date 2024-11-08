@@ -129,7 +129,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "جامعة تعز",
-      logo: require("./assets/images/taizUniversityLogo.png"),
+      logo: require("./assets/images/harvardLogo.png"),
       subHeader: "بكالوريوس نظم المعلومات الإدارية",
       duration: "سبتمبر 2019 - يوليو 2022",
       desc: "تخصصت في نظم المعلومات الإدارية، مع التركيز على تطوير البرمجيات وإدارة قواعد البيانات.",
@@ -189,7 +189,7 @@ const workExperiences = {
     {
       role: "مطور برامج",
       company: "National Cash Transfer Co.",
-      companylogo: require("./assets/images/nctLogo.png"), // تأكد من وجود شعار الشركة في المسار المحدد
+      companylogo: require("./assets/images/harvardLogo.png"), // تأكد من وجود شعار الشركة في المسار المحدد
       date: "يناير 2022 – حتى الآن",
       desc: "تطوير أنظمة الشركة، إعداد التقارير، والدعم الفني لمشاريع اليونيسف.",
       descBullets: [
@@ -202,7 +202,7 @@ const workExperiences = {
     {
       role: "مطور أنظمة",
       company: "Ysys Co.",
-      companylogo: require("./assets/images/ysysLogo.png"), // تأكد من وجود شعار الشركة في المسار المحدد
+      companylogo: require("./assets/images/harvardLogo.png"), // تأكد من وجود شعار الشركة في المسار المحدد
       date: "أكتوبر 2021 – ديسمبر 2022",
       desc: "إنشاء وتطوير منصة لبناء وإدارة المتاجر الإلكترونية باستخدام إطار عمل Laravel.",
       descBullets: [
@@ -213,7 +213,7 @@ const workExperiences = {
     {
       role: "مطور متاجر إلكترونية",
       company: "مؤسسة اللؤلؤ الأسود للعود والعطور - السعودية - الرياض",
-      companylogo: require("./assets/images/blackPearlLogo.png"), // تأكد من وجود شعار الشركة في المسار المحدد
+      companylogo: require("./assets/images/harvardLogo.png"),// تأكد من وجود شعار الشركة في المسار المحدد
       date: "فبراير 2021 – فبراير 2022",
       desc: "تطوير وإنشاء متجر إلكتروني بناءً على متطلبات العملاء.",
       descBullets: [
