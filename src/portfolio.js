@@ -271,29 +271,91 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "المشاريع الكبيرة",
+  subtitle: "بعض الشركات والمشاريع الناجحة التي ساعدت في تطوير تقنيتها",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/rawaLadyLogo.png"),
+      projectName: "Rawaa Lady E-commerce Store",
+      projectDesc: "تصميم وبرمجة متجر إلكتروني وتطبيق لمؤسسة روائع ليدي، مقرها السعودية، متصل مع المتجر على الويب، ومتاح على جوجل بلاي وآبل ستور.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "زيارة الموقع",
+          url: "https://rawayalady.com"
+        },
+        {
+          name: "Google Play",
+          url: "https://play.google.com/store/apps/details?id=com.rawayalady.rawayalady"
+        },
+        {
+          name: "App Store",
+          url: "https://apps.apple.com/eg/app/%D8%B1%D9%88%D8%A7%D8%A6%D8%B9-%D9%84%D9%8A%D8%AF%D9%8A/id6560116587"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/yousefSaadTransportLogo.png"),
+      projectName: "Yousef Saad Al Luqmani Transport Establishment",
+      projectDesc: "تصميم نظام إدارة الشحن والنقل باستخدام لغة vb. Net وقاعدة بيانات SQL Server وتقارير Crystal Report. تم إنشاء المشروع حسب متطلبات العميل ويدعم الفاتورة الإلكترونية السعودية.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "زيارة الموقع",
+          url: "http://ysaltransport.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/alUteibiAutoPartsLogo.png"),
+      projectName: "Al-Uteibi Auto Parts",
+      projectDesc: "تصميم نظام إدارة المبيعات والمشتريات كنظام مكتبي، مع إضافة تعديلات وأقسام مثل الصيانة حسب طلب العميل، متوافق مع الفاتورة الإلكترونية السعودية.",
+      footerLink: [
+        {
+          name: "زيارة الموقع",
+          url: "http://aluteibiautoparts.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/inmaSharqiyahLogo.png"),
+      projectName: "Inma Sharqiyah Contracting",
+      projectDesc: "تصميم وبرمجة موقع إلكتروني لشركة إنماء الشرقية للمقاولات في السعودية. (الموقع غير متاح حاليًا بسبب مشاكل في الدومين)",
+      footerLink: [
+        {
+          name: "زيارة الموقع",
+          url: "http://inmasharqiyah.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/alhajzLogo.png"),
+      projectName: "Alhajz Alaufar",
+      projectDesc: "تصميم وبرمجة نظام إلكتروني للسفريات والسياحة وحجز تذاكر باصات النقل الجماعي والفنادق والطيران.",
+      footerLink: [
+        {
+          name: "زيارة الموقع",
+          url: "http://alhajzalufer.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/emaarDammamLogo.png"),
+      projectName: "Emaar Dammam Contracting",
+      projectDesc: "تصميم وبرمجة موقع إلكتروني لشركة إعمار الدمام للمقاولات في السعودية.",
+      footerLink: [
+        {
+          name: "زيارة الموقع",
+          url: "http://emaar-dammam.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/alOteibiAutoPartsLogo.png"),
+      projectName: "Al-Oteibi Auto Parts",
+      projectDesc: "تصميم وبرمجة نظام لإدارة محل بيع قطع غيار السيارات في السعودية، متوافق مع الفاتورة الإلكترونية السعودية.",
+      footerLink: [
+        {
+          name: "زيارة الموقع",
+          url: "http://aloteibiautoparts.com/"
         }
       ]
     }
