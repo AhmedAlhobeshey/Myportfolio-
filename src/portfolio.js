@@ -197,10 +197,23 @@ const workExperiences = {
   display: true, // Set it to true to show workExperiences Section
   experience: [
     {
+      role: "مبرمج",
+      company: "MEPSYemen",
+      companylogo: require("./assets/images/mepsyemenLogo.png"), 
+      date: "أكتوبر 2023 – نوفمبر 2024",
+      desc: "التعامل مع الصرافات الآلية (ATM) وربطها وتفعيل الخدمة، بالإضافة إلى إنشاء الموقع الإلكتروني للشركة.",
+      descBullets: [
+        "برمجة وصيانة الصرافات الآلية (ATM).",
+        "ربط الصرافات الآلية بالشبكة وتفعيل الخدمة.",
+        "التأكد من كفاءة عمل الصرافات الآلية وصيانتها الدورية.",
+        "إنشاء الموقع الإلكتروني للشركة."
+      ]
+    },
+    {
       role: "مطور برامج",
       company: "National Cash Transfer Co.",
-      companylogo: require("./assets/images/harvardLogo.png"), // تأكد من وجود شعار الشركة في المسار المحدد
-      date: "يناير 2022 – حتى الآن",
+      companylogo: require("./assets/images/nctLogo.png"), 
+      date: "يناير 2022 – أكتوبر 2023",
       desc: "تطوير أنظمة الشركة، إعداد التقارير، والدعم الفني لمشاريع اليونيسف.",
       descBullets: [
         "تطوير أنظمة الشركة.",
@@ -210,9 +223,20 @@ const workExperiences = {
       ]
     },
     {
+      role: "مسؤول البيانات",
+      company: "منظمة الأغذية والزراعة للأمم المتحدة (الفاو)",
+      companylogo: require("./assets/images/faoLogo.png"), 
+      date: "مايو 2022 – سبتمبر 2022",
+      desc: "العمل في مشروع الفاو في الضالع صندوق الملك سلمان يستهدف الأسر الأكثر احتياجًا ل 11,250 مستفيدًا.",
+      descBullets: [
+        "تدريب الفريق على نظام كوبو وآلية عمله.",
+        "مراجعة البيانات وتصفيتها لضمان دقتها ووضوحها وعدم تكرارها."
+      ]
+    },
+    {
       role: "مطور أنظمة",
       company: "Ysys Co.",
-      companylogo: require("./assets/images/harvardLogo.png"), // تأكد من وجود شعار الشركة في المسار المحدد
+      companylogo: require("./assets/images/ysysLogo.png"), 
       date: "أكتوبر 2021 – ديسمبر 2022",
       desc: "إنشاء وتطوير منصة لبناء وإدارة المتاجر الإلكترونية باستخدام إطار عمل Laravel.",
       descBullets: [
@@ -223,17 +247,18 @@ const workExperiences = {
     {
       role: "مطور متاجر إلكترونية",
       company: "مؤسسة اللؤلؤ الأسود للعود والعطور - السعودية - الرياض",
-      companylogo: require("./assets/images/harvardLogo.png"),// تأكد من وجود شعار الشركة في المسار المحدد
+      companylogo: require("./assets/images/blackPearlLogo.png"), 
       date: "فبراير 2021 – فبراير 2022",
-      desc: "تطوير وإنشاء متجر إلكتروني بناءً على متطلبات العملاء.",
+      desc: "تطوير وإنشاء متجر إلكتروني بناءً على متطلبات العملاء، بالإضافة إلى ربط طرق الشحن والدفع الإلكتروني.",
       descBullets: [
         "تطوير وإنشاء متجر إلكتروني بناءً على متطلبات العملاء.",
+        "ربط طرق الشحن بشركات مثل DHL و Aramex.",
+        "ربط طرق الدفع الإلكتروني باستخدام Apple Pay، Mada، STC Pay، تمارا، وتابي.",
         "العمل مع فرق متعددة التخصصات لتنفيذ المشاريع المشتركة وتحقيق الأهداف في الوقت المحدد."
       ]
     }
   ]
 };
-
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
