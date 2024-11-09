@@ -274,8 +274,7 @@ const bigProjects = {
   title: "المشاريع الكبيرة",
   subtitle: "بعض الشركات والمشاريع الناجحة التي ساعدت في تطوير تقنيتها",
   projects: [
-    {
-      image: require("./assets/images/rawaLadyLogo.png"),
+    {      image: require("./assets/images/nextuLogo.webp"),
       projectName: "Rawaa Lady E-commerce Store",
       projectDesc: "تصميم وبرمجة متجر إلكتروني وتطبيق لمؤسسة روائع ليدي، مقرها السعودية، متصل مع المتجر على الويب، ومتاح على جوجل بلاي وآبل ستور.",
       footerLink: [
@@ -294,7 +293,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/yousefSaadTransportLogo.jpg"),
+            image: require("./assets/images/nextuLogo.webp"),
       projectName: "Yousef Saad Al Luqmani Transport Establishment",
       projectDesc: "تصميم نظام إدارة الشحن والنقل باستخدام لغة vb. Net وقاعدة بيانات SQL Server وتقارير Crystal Report. تم إنشاء المشروع حسب متطلبات العميل ويدعم الفاتورة الإلكترونية السعودية.",
       footerLink: [
@@ -304,8 +303,7 @@ const bigProjects = {
         }
       ]
     },
-    {
-      image: require("./assets/images/alUteibiAutoPartsLogo.jpg"),
+    {      image: require("./assets/images/nextuLogo.webp"),
       projectName: "Al-Uteibi Auto Parts",
       projectDesc: "تصميم نظام إدارة المبيعات والمشتريات كنظام مكتبي، مع إضافة تعديلات وأقسام مثل الصيانة حسب طلب العميل، متوافق مع الفاتورة الإلكترونية السعودية.",
       footerLink: [
@@ -316,7 +314,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/inmaSharqiyahLogo.jpg"),
+           image: require("./assets/images/nextuLogo.webp"),
       projectName: "Inma Sharqiyah Contracting",
       projectDesc: "تصميم وبرمجة موقع إلكتروني لشركة إنماء الشرقية للمقاولات في السعودية. (الموقع غير متاح حاليًا بسبب مشاكل في الدومين)",
       footerLink: [
@@ -327,7 +325,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/alhajzLogo.jpg"),
+            image: require("./assets/images/nextuLogo.webp"),
       projectName: "Alhajz Alaufar",
       projectDesc: "تصميم وبرمجة نظام إلكتروني للسفريات والسياحة وحجز تذاكر باصات النقل الجماعي والفنادق والطيران.",
       footerLink: [
@@ -337,8 +335,7 @@ const bigProjects = {
         }
       ]
     },
-    {
-      image: require("./assets/images/emaarDammamLogo.jpg"),
+    {      image: require("./assets/images/nextuLogo.webp"),
       projectName: "Emaar Dammam Contracting",
       projectDesc: "تصميم وبرمجة موقع إلكتروني لشركة إعمار الدمام للمقاولات في السعودية.",
       footerLink: [
@@ -348,8 +345,7 @@ const bigProjects = {
         }
       ]
     },
-    {
-      image: require("./assets/images/alOteibiAutoPartsLogo.jpeg"),
+    {      image: require("./assets/images/nextuLogo.webp"),
       projectName: "Al-Oteibi Auto Parts",
       projectDesc: "تصميم وبرمجة نظام لإدارة محل بيع قطع غيار السيارات في السعودية، متوافق مع الفاتورة الإلكترونية السعودية.",
       footerLink: [
