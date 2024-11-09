@@ -139,7 +139,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "جامعة تعز",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/harvardLogo.jpeg"),
       subHeader: "بكالوريوس نظم المعلومات الإدارية",
       duration: "سبتمبر 2019 - يوليو 2022",
       desc: "تخصصت في نظم المعلومات الإدارية، مع التركيز على تطوير البرمجيات وإدارة قواعد البيانات.",
@@ -236,7 +236,7 @@ const workExperiences = {
     {
       role: "مطور أنظمة",
       company: "Ysys Co.",
-      companylogo: require("./assets/images/ysysLogo.png"), 
+      companylogo: require("./assets/images/ysysLogo.jpeg"), 
       date: "أكتوبر 2021 – ديسمبر 2022",
       desc: "إنشاء وتطوير منصة لبناء وإدارة المتاجر الإلكترونية باستخدام إطار عمل Laravel.",
       descBullets: [
@@ -294,7 +294,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/yousefSaadTransportLogo.png"),
+      image: require("./assets/images/yousefSaadTransportLogo.jpg"),
       projectName: "Yousef Saad Al Luqmani Transport Establishment",
       projectDesc: "تصميم نظام إدارة الشحن والنقل باستخدام لغة vb. Net وقاعدة بيانات SQL Server وتقارير Crystal Report. تم إنشاء المشروع حسب متطلبات العميل ويدعم الفاتورة الإلكترونية السعودية.",
       footerLink: [
@@ -305,7 +305,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/alUteibiAutoPartsLogo.png"),
+      image: require("./assets/images/alUteibiAutoPartsLogo.jpg"),
       projectName: "Al-Uteibi Auto Parts",
       projectDesc: "تصميم نظام إدارة المبيعات والمشتريات كنظام مكتبي، مع إضافة تعديلات وأقسام مثل الصيانة حسب طلب العميل، متوافق مع الفاتورة الإلكترونية السعودية.",
       footerLink: [
@@ -316,7 +316,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/inmaSharqiyahLogo.png"),
+      image: require("./assets/images/inmaSharqiyahLogo.jpg"),
       projectName: "Inma Sharqiyah Contracting",
       projectDesc: "تصميم وبرمجة موقع إلكتروني لشركة إنماء الشرقية للمقاولات في السعودية. (الموقع غير متاح حاليًا بسبب مشاكل في الدومين)",
       footerLink: [
@@ -327,7 +327,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/alhajzLogo.png"),
+      image: require("./assets/images/alhajzLogo.jpg"),
       projectName: "Alhajz Alaufar",
       projectDesc: "تصميم وبرمجة نظام إلكتروني للسفريات والسياحة وحجز تذاكر باصات النقل الجماعي والفنادق والطيران.",
       footerLink: [
@@ -338,7 +338,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/emaarDammamLogo.png"),
+      image: require("./assets/images/emaarDammamLogo.jpg"),
       projectName: "Emaar Dammam Contracting",
       projectDesc: "تصميم وبرمجة موقع إلكتروني لشركة إعمار الدمام للمقاولات في السعودية.",
       footerLink: [
@@ -349,7 +349,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/alOteibiAutoPartsLogo.png"),
+      image: require("./assets/images/alOteibiAutoPartsLogo.jpeg"),
       projectName: "Al-Oteibi Auto Parts",
       projectDesc: "تصميم وبرمجة نظام لإدارة محل بيع قطع غيار السيارات في السعودية، متوافق مع الفاتورة الإلكترونية السعودية.",
       footerLink: [
