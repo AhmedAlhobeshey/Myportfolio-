@@ -199,7 +199,7 @@ const workExperiences = {
     {
       role: "مبرمج",
       company: "MEPSYemen",
-      companylogo: require("./assets/images/harvardLogo.jpeg"), 
+            companylogo: require("./assets/images/facebookLogo.png"),
       date: "أكتوبر 2023 – نوفمبر 2024",
       desc: "التعامل مع الصرافات الآلية (ATM) وربطها وتفعيل الخدمة، بالإضافة إلى إنشاء الموقع الإلكتروني للشركة.",
       descBullets: [
@@ -212,7 +212,7 @@ const workExperiences = {
     {
       role: "مطور برامج",
       company: "National Cash Transfer Co.",
-      companylogo: require("./assets/images/harvardLogo.jpeg"), 
+            companylogo: require("./assets/images/facebookLogo.png"),
       date: "يناير 2022 – أكتوبر 2023",
       desc: "تطوير أنظمة الشركة، إعداد التقارير، والدعم الفني لمشاريع اليونيسف.",
       descBullets: [
@@ -225,7 +225,7 @@ const workExperiences = {
     {
       role: "مسؤول البيانات",
       company: "منظمة الأغذية والزراعة للأمم المتحدة (الفاو)",
-      companylogo: require("./assets/images/harvardLogo.jpeg"), 
+            companylogo: require("./assets/images/facebookLogo.png"),
       date: "مايو 2022 – سبتمبر 2022",
       desc: "العمل في مشروع الفاو في الضالع صندوق الملك سلمان يستهدف الأسر الأكثر احتياجًا ل 11,250 مستفيدًا.",
       descBullets: [
@@ -236,7 +236,7 @@ const workExperiences = {
     {
       role: "مطور أنظمة",
       company: "Ysys Co.",
-      companylogo: require("./assets/images/harvardLogo.jpeg"), 
+            companylogo: require("./assets/images/facebookLogo.png"),
       date: "أكتوبر 2021 – ديسمبر 2022",
       desc: "إنشاء وتطوير منصة لبناء وإدارة المتاجر الإلكترونية باستخدام إطار عمل Laravel.",
       descBullets: [
@@ -247,7 +247,7 @@ const workExperiences = {
     {
       role: "مطور متاجر إلكترونية",
       company: "مؤسسة اللؤلؤ الأسود للعود والعطور - السعودية - الرياض",
-      companylogo: require("./assets/images/harvardLogo.jpeg"), 
+            companylogo: require("./assets/images/facebookLogo.png"),
       date: "فبراير 2021 – فبراير 2022",
       desc: "تطوير وإنشاء متجر إلكتروني بناءً على متطلبات العملاء، بالإضافة إلى ربط طرق الشحن والدفع الإلكتروني.",
       descBullets: [
