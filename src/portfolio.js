@@ -230,23 +230,40 @@ const workExperiences = {
       company: "منظمة الأغذية والزراعة للأمم المتحدة (الفاو)",
       companylogo: require("./assets/images/faoLogo.png"), 
       date: "مايو 2022 – سبتمبر 2022",
-      desc: "العمل في"   }, 
-    {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "العمل في مشروع الفاو في الضالع صندوق الملك سلمان يستهدف الأسر الأكثر احتياجًا ل 11,250 مستفيدًا.",
+      descBullets: [
+        "تدريب الفريق على نظام كوبو وآلية عمله.",
+        "مراجعة البيانات وتصفيتها لضمان دقتها ووضوحها وعدم تكرارها."
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "مطور أنظمة",
+      company: "Ysys Co.",
+      companylogo: require("./assets/images/ysysLogo.png"), 
+      companylogo: require("./assets/images/ysysLogo.jpeg"), 
+      date: "أكتوبر 2021 – ديسمبر 2022",
+      desc: "إنشاء وتطوير منصة لبناء وإدارة المتاجر الإلكترونية باستخدام إطار عمل Laravel.",
+      descBullets: [
+        "تطوير وصيانة تطبيقات الويب.",
+        "إنشاء وتطوير منصة لبناء وإدارة المتاجر الإلكترونية."
+      ]
+    },
+    {
+      role: "مطور متاجر إلكترونية",
+      company: "مؤسسة اللؤلؤ الأسود للعود والعطور - السعودية - الرياض",
+      companylogo: require("./assets/images/blackPearlLogo.png"), 
+      date: "فبراير 2021 – فبراير 2022",
+      desc: "تطوير وإنشاء متجر إلكتروني بناءً على متطلبات العملاء، بالإضافة إلى ربط طرق الشحن والدفع الإلكتروني.",
+      descBullets: [
+        "تطوير وإنشاء متجر إلكتروني بناءً على متطلبات العملاء.",
+        "ربط طرق الشحن بشركات مثل DHL و Aramex.",
+        "ربط طرق الدفع الإلكتروني باستخدام Apple Pay، Mada، STC Pay، تمارا، وتابي.",
+        "العمل مع فرق متعددة التخصصات لتنفيذ المشاريع المشتركة وتحقيق الأهداف في الوقت المحدد."
+      ]
     }
   ]
 };
+    
 
 
 /* Your Open Source Section to View Your Github Pinned Projects
