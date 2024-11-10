@@ -198,24 +198,12 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
-    {
-      role: "مبرمج",
-      company: "MEPSYemen",
-      companylogo: require("./assets/images/mepsyemenLogo.png"), 
-      date: "أكتوبر 2023 – نوفمبر 2024",
-      desc: "التعامل مع الصرافات الآلية (ATM) وربطها وتفعيل الخدمة، بالإضافة إلى إنشاء الموقع الإلكتروني للشركة.",
-      descBullets: [
-        "برمجة وصيانة الصرافات الآلية (ATM).",
-        "ربط الصرافات الآلية بالشبكة وتفعيل الخدمة.",
-        "التأكد من كفاءة عمل الصرافات الآلية وصيانتها الدورية.",
-        "إنشاء الموقع الإلكتروني للشركة."
-      ]
-    },
+    
     {
       role: "مطور برامج",
       company: "National Cash Transfer Co.",
       companylogo: require("./assets/images/nctLogo.png"), 
-      date: "يناير 2022 – أكتوبر 2023",
+      date: "يناير 2022 – أكتوبر 2024",
       desc: "تطوير أنظمة الشركة، إعداد التقارير، والدعم الفني لمشاريع اليونيسف.",
       descBullets: [
         "تطوير أنظمة الشركة.",
@@ -227,7 +215,7 @@ const workExperiences = {
     {
       role: "مسؤول البيانات",
       company: "منظمة الأغذية والزراعة للأمم المتحدة (الفاو)",
-      companylogo: require("./assets/images/nctLogo.png"), 
+      companylogo: require("./assets/images/faoLogo.png"), 
       date: "مايو 2022 – سبتمبر 2022",
       desc: "العمل في مشروع الفاو في الضالع صندوق الملك سلمان يستهدف الأسر الأكثر احتياجًا ل 11,250 مستفيدًا.",
       descBullets: [
