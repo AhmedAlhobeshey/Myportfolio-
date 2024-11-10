@@ -287,62 +287,74 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/yousefSaadTransportLogo.jpg"),
+      projectName: "Yousef Saad Al Luqmani Transport Establishment",
+      projectDesc: "تصميم نظام إدارة الشحن والنقل باستخدام لغة vb. Net وقاعدة بيانات SQL Server وتقارير Crystal Report. تم إنشاء المشروع حسب متطلبات العميل ويدعم الفاتورة الإلكترونية السعودية.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "زيارة الموقع",
+          url: "http://ysaltransport.com/"
         }
       ]
-    }, 
+    },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/alUteibiAutoPartsLogo.jpg"),
+      projectName: "Al-Uteibi Auto Parts",
+      projectDesc: "تصميم نظام إدارة المبيعات والمشتريات كنظام مكتبي، مع إضافة تعديلات وأقسام مثل الصيانة حسب طلب العميل، متوافق مع الفاتورة الإلكترونية السعودية.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "زيارة الموقع",
+          url: "http://aluteibiautoparts.com/"
         }
       ]
-}, 
+    },
 {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/inmaSharqiyahLogo.jpg"),
+      projectName: "Inma Sharqiyah Contracting",
+      projectDesc: "تصميم وبرمجة موقع إلكتروني لشركة إنماء الشرقية للمقاولات في السعودية. (الموقع غير متاح حاليًا بسبب مشاكل في الدومين)",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "زيارة الموقع",
+          url: "http://inmasharqiyah.com/"
         }
       ]
-}, 
+    },
 
 {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/alhajzLogo.jpg"),
+      projectName: "Alhajz Alaufar",
+      projectDesc: "تصميم وبرمجة نظام إلكتروني للسفريات والسياحة وحجز تذاكر باصات النقل الجماعي والفنادق والطيران.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "زيارة الموقع",
+          url: "http://alhajzalufer.com/"
         }
       ]
-}, 
+    },
 
 {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+  image: require("./assets/images/emaarDammamLogo.jpg"),
+      projectName: "Emaar Dammam Contracting",
+      projectDesc: "تصميم وبرمجة موقع إلكتروني لشركة إعمار الدمام للمقاولات في السعودية.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "زيارة الموقع",
+          url: "http://emaar-dammam.com/"
         }
       ]
-}
+    },
+    { image: require("./assets/images/alOteibiAutoPartsLogo.jpeg"),
+      projectName: "Al-Oteibi Auto Parts",
+      projectDesc: "تصميم وبرمجة نظام لإدارة محل بيع قطع غيار السيارات في السعودية، متوافق مع الفاتورة الإلكترونية السعودية.",
+      footerLink: [
+        {
+          name: "زيارة الموقع",
+          url: "http://aloteibiautoparts.com/"
+        }
+      ]
+    }
+ 
+      
   ],
   display: true // Set false to hide this section, defaults to true
 };
