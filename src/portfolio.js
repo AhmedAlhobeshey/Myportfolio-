@@ -244,14 +244,20 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
+      projectName: "Rawaa Lady E-commerce Store",
+      projectDesc: "تصميم وبرمجة متجر إلكتروني وتطبيق لمؤسسة روائع ليدي، مقرها السعودية، متصل مع المتجر على الويب، ومتاح على جوجل بلاي وآبل ستور.",
+      footerLink: [{
+          name: "زيارة الموقع",
+          url: "https://rawayalady.com"
+        },
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Google Play",
+          url: "https://play.google.com/store/apps/details?id=com.rawayalady.rawayalady"
+        },
+        {
+          name: "App Store",
+          url: "https://apps.apple.com/eg/app/%D8%B1%D9%88%D8%A7%D8%A6%D8%B9-%D9%84%D9%8A%D8%AF%D9%8A/id6560116587"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
