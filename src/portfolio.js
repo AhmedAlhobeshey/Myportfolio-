@@ -193,72 +193,39 @@ const techStack = {
 // Work experience section
 
 
+// Work experience section
+
 const workExperiences = {
-  display: true, // Set it to true to show workExperiences Section
+  display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "مبرمج",
-      company: "MEPSYemen",
-            companylogo: require("./assets/images/facebookLogo.png"),
-      date: "أكتوبر 2023 – نوفمبر 2024",
-      desc: "التعامل مع الصرافات الآلية (ATM) وربطها وتفعيل الخدمة، بالإضافة إلى إنشاء الموقع الإلكتروني للشركة.",
+      role: "Software Engineer",
+      company: "Facebook",
+      companylogo: require("./assets/images/facebookLogo.png"),
+      date: "June 2018 – Present",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "برمجة وصيانة الصرافات الآلية (ATM).",
-        "ربط الصرافات الآلية بالشبكة وتفعيل الخدمة.",
-        "التأكد من كفاءة عمل الصرافات الآلية وصيانتها الدورية.",
-        "إنشاء الموقع الإلكتروني للشركة."
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
     {
-      role: "مطور برامج",
-      company: "National Cash Transfer Co.",
-            companylogo: require("./assets/images/facebookLogo.png"),
-      date: "يناير 2022 – أكتوبر 2023",
-      desc: "تطوير أنظمة الشركة، إعداد التقارير، والدعم الفني لمشاريع اليونيسف.",
-      descBullets: [
-        "تطوير أنظمة الشركة.",
-        "إعداد التقارير باستخدام Jasper Report و Oracle Apex.",
-        "تقديم الدعم الفني لموظفي الشركة في مشاريع اليونيسف.",
-        "صيانة وتطوير مواقع الشركة."
-      ]
+      role: "Front-End Developer",
+      company: "Quora",
+      companylogo: require("./assets/images/quoraLogo.png"),
+      date: "May 2017 – May 2018",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      role: "مسؤول البيانات",
-      company: "منظمة الأغذية والزراعة للأمم المتحدة (الفاو)",
-            companylogo: require("./assets/images/facebookLogo.png"),
-      date: "مايو 2022 – سبتمبر 2022",
-      desc: "العمل في مشروع الفاو في الضالع صندوق الملك سلمان يستهدف الأسر الأكثر احتياجًا ل 11,250 مستفيدًا.",
-      descBullets: [
-        "تدريب الفريق على نظام كوبو وآلية عمله.",
-        "مراجعة البيانات وتصفيتها لضمان دقتها ووضوحها وعدم تكرارها."
-      ]
-    },
-    {
-      role: "مطور أنظمة",
-      company: "Ysys Co.",
-            companylogo: require("./assets/images/facebookLogo.png"),
-      date: "أكتوبر 2021 – ديسمبر 2022",
-      desc: "إنشاء وتطوير منصة لبناء وإدارة المتاجر الإلكترونية باستخدام إطار عمل Laravel.",
-      descBullets: [
-        "تطوير وصيانة تطبيقات الويب.",
-        "إنشاء وتطوير منصة لبناء وإدارة المتاجر الإلكترونية."
-      ]
-    },
-    {
-      role: "مطور متاجر إلكترونية",
-      company: "مؤسسة اللؤلؤ الأسود للعود والعطور - السعودية - الرياض",
-            companylogo: require("./assets/images/facebookLogo.png"),
-      date: "فبراير 2021 – فبراير 2022",
-      desc: "تطوير وإنشاء متجر إلكتروني بناءً على متطلبات العملاء، بالإضافة إلى ربط طرق الشحن والدفع الإلكتروني.",
-      descBullets: [
-        "تطوير وإنشاء متجر إلكتروني بناءً على متطلبات العملاء.",
-        "ربط طرق الشحن بشركات مثل DHL و Aramex.",
-        "ربط طرق الدفع الإلكتروني باستخدام Apple Pay، Mada، STC Pay، تمارا، وتابي.",
-        "العمل مع فرق متعددة التخصصات لتنفيذ المشاريع المشتركة وتحقيق الأهداف في الوقت المحدد."
-      ]
+      role: "Software Engineer Intern",
+      company: "Airbnb",
+      companylogo: require("./assets/images/airbnbLogo.png"),
+      date: "Jan 2015 – Sep 2015",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
 };
+
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
