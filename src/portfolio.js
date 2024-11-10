@@ -296,7 +296,7 @@ const bigProjects = {
           url: "http://nextu.se/"
         }
       ]
-    }
+    }, 
     {
       image: require("./assets/images/nextuLogo.webp"),
       projectName: "Nextu",
@@ -307,7 +307,7 @@ const bigProjects = {
           url: "http://nextu.se/"
         }
       ]
-}
+}, 
 {
       image: require("./assets/images/nextuLogo.webp"),
       projectName: "Nextu",
@@ -318,7 +318,7 @@ const bigProjects = {
           url: "http://nextu.se/"
         }
       ]
-}
+}, 
 
 {
       image: require("./assets/images/nextuLogo.webp"),
@@ -330,7 +330,7 @@ const bigProjects = {
           url: "http://nextu.se/"
         }
       ]
-}
+}, 
 
 {
       image: require("./assets/images/nextuLogo.webp"),
