@@ -199,14 +199,40 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "مبرمج",
+      company: "MEPSYemen",
+      companylogo: require("./assets/images/mepsyemenLogo.png"), 
+      date: "أكتوبر 2023 – نوفمبر 2024",
+      desc: "التعامل مع الصرافات الآلية (ATM) وربطها وتفعيل الخدمة، بالإضافة إلى إنشاء الموقع الإلكتروني للشركة.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "برمجة وصيانة الصرافات الآلية (ATM).",
+        "ربط الصرافات الآلية بالشبكة وتفعيل الخدمة.",
+        "التأكد من كفاءة عمل الصرافات الآلية وصيانتها الدورية.",
+        "إنشاء الموقع الإلكتروني للشركة."
+      ]
+    },
+    {
+      role: "مطور برامج",
+      company: "National Cash Transfer Co.",
+      companylogo: require("./assets/images/nctLogo.png"), 
+      date: "يناير 2022 – أكتوبر 2023",
+      desc: "تطوير أنظمة الشركة، إعداد التقارير، والدعم الفني لمشاريع اليونيسف.",
+      descBullets: [
+        "تطوير أنظمة الشركة.",
+        "إعداد التقارير باستخدام Jasper Report و Oracle Apex.",
+        "تقديم الدعم الفني لموظفي الشركة في مشاريع اليونيسف.",
+        "صيانة وتطوير مواقع الشركة."
+      ]
+    },
+    {
+      role: "مسؤول البيانات",
+      company: "منظمة الأغذية والزراعة للأمم المتحدة (الفاو)",
+      companylogo: require("./assets/images/faoLogo.png"), 
+      date: "مايو 2022 – سبتمبر 2022",
+      desc: "العمل في مشروع الفاو في الضالع صندوق الملك سلمان يستهدف الأسر الأكثر احتياجًا ل 11,250 مستفيدًا.",
+      descBullets: [
+        "تدريب الفريق على نظام كوبو وآلية عمله.",
+        "مراجعة البيانات وتصفيتها لضمان دقتها ووضوحها وعدم تكرارها."
       ]
     },
     {
