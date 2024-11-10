@@ -265,8 +265,8 @@ const openSource = {
 
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+    title: "المشاريع الكبيرة",
+  subtitle: "بعض الشركات والمشاريع الناجحة التي ساعدت في تطوير تقنيتها",
   projects: [
     {
       image: require("./assets/images/rawaLadyLogo.png"),
@@ -297,6 +297,52 @@ const bigProjects = {
         }
       ]
     }
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "Nextu",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://nextu.se/"
+        }
+      ]
+}
+{
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "Nextu",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://nextu.se/"
+        }
+      ]
+}
+
+{
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "Nextu",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://nextu.se/"
+        }
+      ]
+}
+
+{
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "Nextu",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://nextu.se/"
+        }
+      ]
+}
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -345,6 +391,50 @@ const achievementSection = {
       ]
     },
 
+{
+      title: "Google Code-In Finalist",
+      subtitle:
+        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      image: require("./assets/images/codeInLogo.webp"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [{
+          name: "زيارة الموقع",
+          url: "https://rawayalady.com"
+        },
+        {
+          name: "Google Play",
+          url: "https://play.google.com/store/apps/details?id=com.rawayalady.rawayalady"
+        },
+        {
+          name: "App Store",
+          url: "https://apps.apple.com/eg/app/%D8%B1%D9%88%D8%A7%D8%A6%D8%B9-%D9%84%D9%8A%D8%AF%D9%8A/id6560116587"
+        }
+      ]
+    },
+
+{
+      title: "Google Code-In Finalist",
+      subtitle:
+        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      image: require("./assets/images/codeInLogo.webp"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+        },
+        {
+          name: "Award Letter",
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+        },
+        {
+          name: "Google Code-in Blog",
+          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+        }
+      ]
+    },
+    
+    
     {
       title: "PWA Web App Developer",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
@@ -359,7 +449,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: false// Set false to hide this section, defaults to true
+  display: true// Set false to hide this section, defaults to true
 };
 
 // Blogs Section
