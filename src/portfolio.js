@@ -243,7 +243,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/rawaLadyLogo.png"),
       projectName: "Rawaa Lady E-commerce Store",
       projectDesc: "تصميم وبرمجة متجر إلكتروني وتطبيق لمؤسسة روائع ليدي، مقرها السعودية، متصل مع المتجر على الويب، ومتاح على جوجل بلاي وآبل ستور.",
       footerLink: [{
