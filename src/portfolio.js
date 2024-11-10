@@ -224,12 +224,7 @@ const workExperiences = {
         "صيانة وتطوير مواقع الشركة."
       ]
     },
-    {
-      role: "مسؤول البيانات",
-      company: "منظمة الأغذية والزراعة للأمم المتحدة (الفاو)",
-      companylogo: require("./assets/images/faoLogo.png"), 
-      date: "مايو 2022 – سبتمبر 2022",
-      desc: "العمل في    }
+    
     
     {
       role: "Front-End Developer",
