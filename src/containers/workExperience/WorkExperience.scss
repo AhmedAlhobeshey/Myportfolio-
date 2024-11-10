@@ -2,6 +2,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
   gap: 1rem 1rem;
+  grid-template-columns: 1fr;
 }
 
 .experience-heading {
@@ -16,6 +17,7 @@
   margin: 0px auto;
   margin-top: 2rem;
   Overflow : auto;
+  flex-direction: column;
 }
 
 .experience-container > * {
