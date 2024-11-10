@@ -287,38 +287,30 @@ const bigProjects = {
       footerLink: [
         {
           name: "زيارة الموقع",
-          url: "http://inmasharqiyah.com/"
+const bigProjects = {
+  title: "Big Projects",
+  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  projects: [
+    {
+      image: require("./assets/images/saayaHealthLogo.webp"),
+      projectName: "Saayahealth",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://saayahealth.com/"
         }
+        //  you can add extra buttons here.
       ]
     },
     {
-            image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Alhajz Alaufar",
-      projectDesc: "تصميم وبرمجة نظام إلكتروني للسفريات والسياحة وحجز تذاكر باصات النقل الجماعي والفنادق والطيران.",
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "Nextu",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
-          name: "زيارة الموقع",
-          url: "http://alhajzalufer.com/"
-        }
-      ]
-    },
-    {      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Emaar Dammam Contracting",
-      projectDesc: "تصميم وبرمجة موقع إلكتروني لشركة إعمار الدمام للمقاولات في السعودية.",
-      footerLink: [
-        {
-          name: "زيارة الموقع",
-          url: "http://emaar-dammam.com/"
-        }
-      ]
-    },
-    {      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Al-Oteibi Auto Parts",
-      projectDesc: "تصميم وبرمجة نظام لإدارة محل بيع قطع غيار السيارات في السعودية، متوافق مع الفاتورة الإلكترونية السعودية.",
-      footerLink: [
-        {
-          name: "زيارة الموقع",
-          url: "http://aloteibiautoparts.com/"
+          name: "Visit Website",
+          url: "http://nextu.se/"
         }
       ]
     }
