@@ -211,6 +211,25 @@ const workExperiences = {
         "إنشاء الموقع الإلكتروني للشركة."
       ]
     },
+    {
+      role: "مطور برامج",
+      company: "National Cash Transfer Co.",
+      companylogo: require("./assets/images/nctLogo.png"), 
+      date: "يناير 2022 – أكتوبر 2023",
+      desc: "تطوير أنظمة الشركة، إعداد التقارير، والدعم الفني لمشاريع اليونيسف.",
+      descBullets: [
+        "تطوير أنظمة الشركة.",
+        "إعداد التقارير باستخدام Jasper Report و Oracle Apex.",
+        "تقديم الدعم الفني لموظفي الشركة في مشاريع اليونيسف.",
+        "صيانة وتطوير مواقع الشركة."
+      ]
+    },
+    {
+      role: "مسؤول البيانات",
+      company: "منظمة الأغذية والزراعة للأمم المتحدة (الفاو)",
+      companylogo: require("./assets/images/faoLogo.png"), 
+      date: "مايو 2022 – سبتمبر 2022",
+      desc: "العمل في    }
     
     {
       role: "Front-End Developer",
