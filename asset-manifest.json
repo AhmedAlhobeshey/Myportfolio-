@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Myportfolio-/static/css/main.f39a7191.css",
-    "main.js": "/Myportfolio-/static/js/main.d3c8012a.js",
+    "main.js": "/Myportfolio-/static/js/main.01481e79.js",
     "static/css/487.bb36206c.chunk.css": "/Myportfolio-/static/css/487.bb36206c.chunk.css",
     "static/js/487.195575ee.chunk.js": "/Myportfolio-/static/js/487.195575ee.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/Myportfolio-/static/css/990.c6a7ee28.chunk.css",
@@ -17,7 +17,6 @@
     "static/media/googleAssistantLogo.webp": "/Myportfolio-/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/airbnbLogo.png": "/Myportfolio-/static/media/airbnbLogo.e8497507db673acd3991.png",
     "static/media/harvardLogo.jpeg": "/Myportfolio-/static/media/harvardLogo.4718d8c6f10b733a74b6.jpeg",
-    "static/media/facebookLogo.png": "/Myportfolio-/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
     "static/media/codeInLogo.webp": "/Myportfolio-/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
     "static/media/skill.svg": "/Myportfolio-/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/resume.pdf": "/Myportfolio-/static/media/resume.f0f733dd3cd732b39262.pdf",
@@ -26,7 +25,7 @@
     "index.html": "/Myportfolio-/index.html",
     "static/media/talksCardBack.svg": "/Myportfolio-/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.f39a7191.css.map": "/Myportfolio-/static/css/main.f39a7191.css.map",
-    "main.d3c8012a.js.map": "/Myportfolio-/static/js/main.d3c8012a.js.map",
+    "main.01481e79.js.map": "/Myportfolio-/static/js/main.01481e79.js.map",
     "487.bb36206c.chunk.css.map": "/Myportfolio-/static/css/487.bb36206c.chunk.css.map",
     "487.195575ee.chunk.js.map": "/Myportfolio-/static/js/487.195575ee.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/Myportfolio-/static/css/990.c6a7ee28.chunk.css.map",
@@ -34,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.f39a7191.css",
-    "static/js/main.d3c8012a.js"
+    "static/js/main.01481e79.js"
   ]
 }
