@@ -227,7 +227,7 @@ const workExperiences = {
     {
       role: "مسؤول البيانات",
       company: "منظمة الأغذية والزراعة للأمم المتحدة (الفاو)",
-      companylogo: require("./assets/images/faoLogo.png"), 
+      companylogo: require("./assets/images/nctLogo.png"), 
       date: "مايو 2022 – سبتمبر 2022",
       desc: "العمل في مشروع الفاو في الضالع صندوق الملك سلمان يستهدف الأسر الأكثر احتياجًا ل 11,250 مستفيدًا.",
       descBullets: [
