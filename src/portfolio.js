@@ -238,8 +238,7 @@ const workExperiences = {
     },
     {
       role: "مطور أنظمة",
-      company: "Ysys Co.",
-      companylogo: require("./assets/images/ysysLogo.png"), 
+      company: "Ysys Co.", 
       companylogo: require("./assets/images/ysysLogo.jpeg"), 
       date: "أكتوبر 2021 – ديسمبر 2022",
       desc: "إنشاء وتطوير منصة لبناء وإدارة المتاجر الإلكترونية باستخدام إطار عمل Laravel.",
