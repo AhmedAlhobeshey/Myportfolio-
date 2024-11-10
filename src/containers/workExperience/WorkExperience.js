@@ -1,9 +1,9 @@
 import React, { useContext, useEffect, lazy, Suspense } from "react";
-import "./WorkExperience.scss";
+import "./WorkExperience.scss"; // يجب أن يكون في الأعلى
 const ExperienceCard = lazy(() => import("../../components/experienceCard/ExperienceCard"));
-import { workExperiences } from "../../portfolio";
-import { Fade } from "react-reveal";
-import StyleContext from "../../contexts/StyleContext";
+import { workExperiences } from "../../portfolio"; // يجب أن يكون في الأعلى
+import { Fade } from "react-reveal"; // يجب أن يكون في الأعلى
+import StyleContext from "../../contexts/StyleContext"; // يجب أن يكون في الأعلى
 
 export default function WorkExperience() {
   const { isDark } = useContext(StyleContext);
