@@ -1,15 +1,15 @@
 import React, { useContext, useEffect, lazy, Suspense } from "react";
-import "./WorkExperience.scss"; // يجب أن يكون في الأعلى
+import "./WorkExperience.scss";
 const ExperienceCard = lazy(() => import("../../components/experienceCard/ExperienceCard"));
-import { workExperiences } from "../../portfolio"; // يجب أن يكون في الأعلى
-import { Fade } from "react-reveal"; // يجب أن يكون في الأعلى
-import StyleContext from "../../contexts/StyleContext"; // يجب أن يكون في الأعلى
+import { workExperiences } from "../../portfolio";
+import { Fade } from "react-reveal";
+import StyleContext from "../../contexts/StyleContext";
 
 export default function WorkExperience() {
   const { isDark } = useContext(StyleContext);
 
   useEffect(() => {
-    console.log(workExperiences.experience); // طباعة العناصر للتحقق من تحميلها بشكل صحيح
+    console.log(workExperiences.experience);
   }, []);
 
   if (!workExperiences.display) {
@@ -45,4 +45,4 @@ export default function WorkExperience() {
       </Fade>
     </div>
   );
-}
+    }
