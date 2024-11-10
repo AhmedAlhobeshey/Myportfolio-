@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Myportfolio-/static/css/main.f39a7191.css",
-    "main.js": "/Myportfolio-/static/js/main.e2dbe921.js",
+    "main.js": "/Myportfolio-/static/js/main.d3c8012a.js",
     "static/css/487.bb36206c.chunk.css": "/Myportfolio-/static/css/487.bb36206c.chunk.css",
     "static/js/487.195575ee.chunk.js": "/Myportfolio-/static/js/487.195575ee.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/Myportfolio-/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.965fce68.chunk.js": "/Myportfolio-/static/js/990.965fce68.chunk.js",
     "static/media/stanfordLogo.png": "/Myportfolio-/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
     "static/media/Montserrat-Regular.ttf": "/Myportfolio-/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/rawaLadyLogo.png": "/Myportfolio-/static/media/rawaLadyLogo.5a52606a5a116f94f53a.png",
     "static/media/Agustina.woff": "/Myportfolio-/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/Myportfolio-/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/Myportfolio-/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -21,12 +22,11 @@
     "static/media/skill.svg": "/Myportfolio-/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/resume.pdf": "/Myportfolio-/static/media/resume.f0f733dd3cd732b39262.pdf",
     "static/media/pwaLogo.webp": "/Myportfolio-/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
-    "static/media/saayaHealthLogo.webp": "/Myportfolio-/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
     "static/media/nextuLogo.webp": "/Myportfolio-/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/Myportfolio-/index.html",
     "static/media/talksCardBack.svg": "/Myportfolio-/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.f39a7191.css.map": "/Myportfolio-/static/css/main.f39a7191.css.map",
-    "main.e2dbe921.js.map": "/Myportfolio-/static/js/main.e2dbe921.js.map",
+    "main.d3c8012a.js.map": "/Myportfolio-/static/js/main.d3c8012a.js.map",
     "487.bb36206c.chunk.css.map": "/Myportfolio-/static/css/487.bb36206c.chunk.css.map",
     "487.195575ee.chunk.js.map": "/Myportfolio-/static/js/487.195575ee.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/Myportfolio-/static/css/990.c6a7ee28.chunk.css.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.f39a7191.css",
-    "static/js/main.e2dbe921.js"
+    "static/js/main.d3c8012a.js"
   ]
 }
