@@ -2,7 +2,6 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
   gap: 1rem 1rem;
-  
 }
 
 .experience-heading {
@@ -16,14 +15,6 @@
   padding: 20px 10px;
   margin: 0px auto;
   margin-top: 2rem;
-  Overflow : auto;
-  flex-direction: column;
-
-
-      direction: rtl; /* لضبط النص باتجاه اليمين إلى اليسار */
-  text-align: center;
-  font-family: 'Arial', sans-serif;
-
 }
 
 .experience-container > * {
@@ -42,14 +33,5 @@
   .experience-heading {
     font-size: 30px;
     text-align: center;
-  }
-  .experience-cards-div {
-    grid-template-columns: 1fr; /* تعديل التخطيط ليكون عمود واحد على الأجهزة المحمولة */
-  }
-  .experience-card {
-    margin-bottom: 1rem; /* إضافة مساحة بين البطاقات */
-  }
-  .experience-container {
-    padding: 10px 5px; /* تقليل الحشو لتناسب الأجهزة الصغيرة */
   }
 }
