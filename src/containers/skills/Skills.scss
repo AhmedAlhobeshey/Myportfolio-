@@ -4,6 +4,9 @@
   display: flex;
   width: 100%;
   overflow: hidden;
+      direction: rtl; /* لضبط النص باتجاه اليمين إلى اليسار */
+  text-align: center;
+  font-family: 'Arial', sans-serif;
 }
 
 .skills-text-div {
