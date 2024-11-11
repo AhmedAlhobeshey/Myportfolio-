@@ -84,53 +84,60 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    {
-      skillName: "Laravel",
-      fontAwesomeClassname: "fab fa-laravel"
-    },
-    {
-      skillName: "Flutter",
-      fontAwesomeClassname: "fab fa-flutter"
-    },
-    {
-      skillName: "C#",
-      fontAwesomeClassname: "fas fa-code"
-    },
-    {
-      skillName: "Vb.Net",
-      fontAwesomeClassname: "fas fa-code"
-    },
-    {
-      skillName: "WordPress",
-      fontAwesomeClassname: "fab fa-wordpress"
-    },
-    {
-      skillName: "SQL-Database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "Oracle",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-
-    {
-      skillName: "Jasper",
-      fontAwesomeClassname: "fas fa-chart-bar"
-    },
-
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-
-  ],
-  display: true // Set false to hide this section, defaults to true
-};
-
+  {
+    skillName: "Laravel",
+    fontAwesomeClassname: "fab fa-laravel"
+  },
+  {
+    skillName: "Flutter",
+    fontAwesomeClassname: "fab fa-flutter"
+  },
+  {
+    skillName: "C#",
+    fontAwesomeClassname: "fas fa-code"
+  },
+  {
+    skillName: "Vb.Net",
+    fontAwesomeClassname: "fas fa-code"
+  },
+  {
+    skillName: "WordPress",
+    fontAwesomeClassname: "fab fa-wordpress"
+  },
+  {
+    skillName: "SQL-Database",
+    fontAwesomeClassname: "fas fa-database"
+  },
+  {
+    skillName: "Oracle",
+    fontAwesomeClassname: "fas fa-database"
+  },
+  {
+    skillName: "npm",
+    fontAwesomeClassname: "fab fa-npm"
+  },
+  {
+    skillName: "Jasper",
+    fontAwesomeClassname: "fas fa-chart-bar"
+  },
+  {
+    skillName: "firebase",
+    fontAwesomeClassname: "fas fa-fire"
+  },
+  {
+    skillName: "Linux",
+    fontAwesomeClassname: "fas fa-linux" // إضافة أيقونة لنظام Linux
+  },
+  {
+    skillName: "Git",
+    fontAwesomeClassname: "fab fa-git" // إضافة أيقونة لنظام Git
+  },
+  {
+    skillName: "GitHub",
+    fontAwesomeClassname: "fab fa-github" // إضافة أيقونة لنظام GitHub
+  }
+],
+display: true // Set false to hide this section, defaults to true
 
 // Education Section
 
@@ -469,7 +476,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true// Set false to hide this section, defaults to true
+  display: false// Set false to hide this section, defaults to true
 };
 
 // Blogs Section
