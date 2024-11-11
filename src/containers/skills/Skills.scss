@@ -18,6 +18,17 @@
   margin-bottom: 30px;
 }
 
+.skills-image-div {
+  display: flex;
+  justify-content: center; /* لتوسيط الصور أفقياً */
+  align-items: center; /* لتوسيط الصور عمودياً إذا لزم الأمر */
+  direction: rtl; /* لضبط النص باتجاه اليمين إلى اليسار */
+  text-align: center; /* لضمان توسيط العناصر النصية داخل الحاوية */
+  font-family: 'Arial', sans-serif;
+  height: 100%; /* تأكد من أن الحاوية لها ارتفاع لضمان التوسيط العمودي */
+} 
+
+
 .skills-image-div > img {
   max-width: 100%;
   height: auto;
