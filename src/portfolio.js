@@ -286,17 +286,7 @@ const bigProjects = {
         }
       ]
     },
-    {
-      image: require("./assets/images/yousefSaadTransportLogo.jpg"),
-      projectName: "Yousef Saad Al Luqmani Transport Establishment",
-      projectDesc: "تصميم نظام إدارة الشحن والنقل باستخدام لغة vb. Net وقاعدة بيانات SQL Server وتقارير Crystal Report. تم إنشاء المشروع حسب متطلبات العميل ويدعم الفاتورة الإلكترونية السعودية.",
-      footerLink: [
-        {
-          name: "زيارة الموقع",
-          url: "http://ysaltransport.com/"
-        }
-      ]
-    },
+    
     {
       image: require("./assets/images/alUteibiAutoPartsLogo.jpg"),
       projectName: "Al-Uteibi Auto Parts",
@@ -459,29 +449,7 @@ const achievementSection = {
     },
     
 
-    
-{
-      title: "Google Code-In Finalist",
-      subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
-      ]
-    },
-    
+
 
     
 
