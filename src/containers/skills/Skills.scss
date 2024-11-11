@@ -2,14 +2,15 @@
 
 .skills-main-div {
   display: flex;
+  flex-direction: row-reverse; /* لضمان الاتجاه من اليمين إلى اليسار بشكل صحيح */
   width: 100%;
   overflow: hidden;
-  direction: rtl; /* لضبط النص باتجاه اليمين إلى اليسار */
   text-align: center;
   font-family: 'Arial', sans-serif;
 }
 
 .skills-text-div {
+  flex: 1;
   margin-left: 50px;
 }
 
@@ -22,9 +23,8 @@
   display: flex;
   justify-content: center; /* لتوسيط الصور أفقياً */
   align-items: center; /* لتوسيط الصور عمودياً إذا لزم الأمر */
-  text-align: center; /* لضمان توسيط العناصر النصية داخل الحاوية */
-  height: 100%;
-  margin: 0 auto; /* لضمان أن الحاوية نفسها تكون متمركزة */
+  width: 100%;
+  height: auto; /* تأكد من أن الحاوية نفسها تحتوي الصور بشكل صحيح */
 }
 
 .skills-image-div > img {
@@ -32,6 +32,7 @@
   height: auto;
   display: block;
   margin: 0 auto; /* لتوسيط الصورة أفقياً */
+  text-align: center; /* لضمان توسيط الصورة داخل الحاوية */
 }
 
 .skills-heading {
@@ -78,5 +79,7 @@
   }
   .skills-image-div {
     order: 2;
+    margin: 0 auto; /* تأكد من أن الحاوية متمركزة بشكل صحيح */
+    width: 100%; /* تأكد من أن الحاوية تحتوي الصور بالكامل */
   }
 }
