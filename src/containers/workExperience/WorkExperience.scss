@@ -1,25 +1,33 @@
 .experience-cards-div {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
-  gap: 1rem 1rem;
+  gap: 1rem;
+  padding: 1rem;
+  margin: 0 auto;
+  box-sizing: border-box; /* لضمان احتواء العناصر بشكل صحيح داخل الشبكة */
 }
 
 .experience-heading {
   font-size: 56px;
   font-weight: 400;
+  margin-bottom: 1rem; /* إضافة بعض المساحة بين العنوان والعناصر التالية */
+  text-align: center; /* تأكد من أن العنوان يتمركز بشكل جيد */
 }
 
 .experience-container {
   display: flex;
   width: 90%;
   padding: 20px 10px;
-  margin: 0px auto;
-  margin-top: 2rem;
+  margin: 2rem auto; /* تحسين الهامش العلوي */
+  flex-wrap: wrap; /* التأكد من أن العناصر تنزل إلى الأسفل إذا لم يكن هناك مساحة كافية */
 }
 
 .experience-container > * {
   flex: 1;
+  min-width: 290px; /* ضمان أن العناصر لا تصبح أصغر من حجم معين */
 }
+
+/* إضافة التحسينات لتفادي اختفاء النص */
 
 /* Media Query */
 
@@ -32,6 +40,12 @@
 @media (max-width: 768px) {
   .experience-heading {
     font-size: 30px;
-    text-align: center;
+  }
+  .experience-cards-div {
+    grid-template-columns: 1fr; /* عرض عمود واحد على الأجهزة الصغيرة */
+    gap: 0.5rem; /* تقليل الفجوة بين العناصر */
+  }
+  .company-name {
+    white-space: normal; /* السماح للنص بالالتفاف على الأسطر الجديدة */
   }
 }
