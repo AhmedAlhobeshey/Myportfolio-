@@ -316,6 +316,17 @@ const bigProjects = {
         }
       ]
     },
+  {
+    image: require("./assets/images/alhajzLogo.jpg"),
+      projectName: "Alhajz Alaufar",
+      projectDesc: "تصميم وبرمجة نظام إلكتروني للسفريات والسياحة وحجز تذاكر باصات النقل الجماعي والفنادق والطيران.",
+      footerLink: [
+        {
+          name: "زيارة الموقع",
+          url: "http://alhajzalufer.com/"
+        }
+      ]
+    },
 
 
     { image: require("./assets/images/alOteibiAutoPartsLogo.jpeg"),
@@ -464,7 +475,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true// Set false to hide this section, defaults to true
+  display: false// Set false to hide this section, defaults to true
 };
 
 // Blogs Section
