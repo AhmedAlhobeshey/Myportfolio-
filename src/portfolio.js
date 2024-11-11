@@ -135,10 +135,10 @@ https://fontawesome.com/icons?d=gallery */
   {
     skillName: "GitHub",
     fontAwesomeClassname: "fab fa-github" // إضافة أيقونة لنظام GitHub
-  }
+  },
 ],
 display: true // Set false to hide this section, defaults to true
-
+}, 
 // Education Section
 
 const educationInfo = {
