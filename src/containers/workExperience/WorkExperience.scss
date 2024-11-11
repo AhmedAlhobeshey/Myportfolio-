@@ -18,6 +18,12 @@
   margin-top: 2rem;
   Overflow : auto;
   flex-direction: column;
+
+
+      direction: rtl; /* لضبط النص باتجاه اليمين إلى اليسار */
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+
 }
 
 .experience-container > * {
