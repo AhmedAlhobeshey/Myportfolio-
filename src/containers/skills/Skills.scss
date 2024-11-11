@@ -22,7 +22,9 @@
   display: flex;
   justify-content: center; /* لتوسيط الصور أفقياً */
   align-items: center; /* لتوسيط الصور عمودياً إذا لزم الأمر */
+  text-align: center; /* لضمان توسيط العناصر النصية داخل الحاوية */
   height: 100%;
+  margin: 0 auto; /* لضمان أن الحاوية نفسها تكون متمركزة */
 }
 
 .skills-image-div > img {
