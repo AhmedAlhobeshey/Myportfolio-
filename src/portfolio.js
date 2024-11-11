@@ -265,7 +265,7 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/rawaLadyLogo.png"),
-      projectName: "Rawaa Lady E-commerce Store",
+      projectName: "روائع ليدي",
       projectDesc: "تصميم وبرمجة متجر إلكتروني وتطبيق لمؤسسة روائع ليدي، مقرها السعودية، متصل مع المتجر على الويب، ومتاح على جوجل بلاي وآبل ستور.",
       footerLink: [{
           name: "زيارة الموقع",
@@ -284,7 +284,7 @@ const bigProjects = {
     
     {
       image: require("./assets/images/alUteibiAutoPartsLogo.jpg"),
-      projectName: "Al-Uteibi Auto Parts",
+      projectName: "حاسوب الأجيال",
       projectDesc: "تصميم نظام إدارة المبيعات والمشتريات كنظام مكتبي، مع إضافة تعديلات وأقسام مثل الصيانة حسب طلب العميل، متوافق مع الفاتورة الإلكترونية السعودية.",
       footerLink: [
         {
@@ -295,8 +295,8 @@ const bigProjects = {
     },
 {
       image: require("./assets/images/inmaSharqiyahLogo.jpg"),
-      projectName: "Inma Sharqiyah Contracting",
-      projectDesc: "تصميم وبرمجة موقع إلكتروني لشركة إنماء الشرقية للمقاولات في السعودية. (الموقع غير متاح حاليًا بسبب مشاكل في الدومين)",
+      projectName: "شركة إنماء الشرقية  ",
+      projectDesc: "تصميم وبرمجة موقع إلكتروني لشركة إنماء الشرقية للمقاولات في السعودية",
       footerLink: [
         {
           name: "زيارة الموقع",
@@ -307,7 +307,7 @@ const bigProjects = {
 
 {
       image: require("./assets/images/alhajzLogo.jpg"),
-      projectName: "Alhajz Alaufar",
+      projectName: "منصة الحجز الأوفر ",
       projectDesc: "تصميم وبرمجة نظام إلكتروني للسفريات والسياحة وحجز تذاكر باصات النقل الجماعي والفنادق والطيران.",
       footerLink: [
         {
@@ -316,21 +316,11 @@ const bigProjects = {
         }
       ]
     },
-  {
-    image: require("./assets/images/alhajzLogo.jpg"),
-      projectName: "Alhajz Alaufar",
-      projectDesc: "تصميم وبرمجة نظام إلكتروني للسفريات والسياحة وحجز تذاكر باصات النقل الجماعي والفنادق والطيران.",
-      footerLink: [
-        {
-          name: "زيارة الموقع",
-          url: "http://alhajzalufer.com/"
-        }
-      ]
-    },
+
 
 
     { image: require("./assets/images/alOteibiAutoPartsLogo.jpeg"),
-      projectName: "Al-Oteibi Auto Parts",
+      projectName: "العتيبي لقطع غيار السيارات ",
       projectDesc: "تصميم وبرمجة نظام لإدارة محل بيع قطع غيار السيارات في السعودية، متوافق مع الفاتورة الإلكترونية السعودية.",
       footerLink: [
         {
