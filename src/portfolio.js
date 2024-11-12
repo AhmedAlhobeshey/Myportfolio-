@@ -43,18 +43,17 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "",
-  linkedin: "",
+  github: "https://ahmedalhobeshey.github.io/Myportfolio-/",
+  linkedin: "https://ahmedalhobeshey.github.io/Myportfolio-/",
   gmail: "ahmed20122012123@gmail.com",
-  gitlab: "",
-  facebook: "",
-  medium: "",
-  stackoverflow: "",
+  gitlab: "https://ahmedalhobeshey.github.io/Myportfolio-/",
+  facebook: "https://ahmedalhobeshey.github.io/Myportfolio-/",
+  medium: "https://ahmedalhobeshey.github.io/Myportfolio-/",
+  stackoverflow: "https://ahmedalhobeshey.github.io/Myportfolio-/",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
 };
-
 // Skills Section
 const skillsSection = {
   title: "مالذي الذي أقوم",
