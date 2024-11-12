@@ -143,7 +143,8 @@ const educationInfo = {
         "اكتساب مهارات برمجة متقدمة من خلال الدورات عبر الإنترنت في Vb.Net و C# و PHP."
       ]
     },
-    
+    // يمكنك إضافة المزيد من المدارس هنا إذا رغبت.
+  ]
 };
 
 // Your top 3 proficient stacks/tech experience
