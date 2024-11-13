@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Myportfolio-/static/css/main.77c60e1d.css",
+    "main.css": "/Myportfolio-/static/css/main.f917aba9.css",
     "main.js": "/Myportfolio-/static/js/main.534f754a.js",
     "static/css/487.bb36206c.chunk.css": "/Myportfolio-/static/css/487.bb36206c.chunk.css",
     "static/js/487.195575ee.chunk.js": "/Myportfolio-/static/js/487.195575ee.chunk.js",
@@ -25,7 +25,7 @@
     "static/media/pwaLogo.webp": "/Myportfolio-/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "index.html": "/Myportfolio-/index.html",
     "static/media/talksCardBack.svg": "/Myportfolio-/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.77c60e1d.css.map": "/Myportfolio-/static/css/main.77c60e1d.css.map",
+    "main.f917aba9.css.map": "/Myportfolio-/static/css/main.f917aba9.css.map",
     "main.534f754a.js.map": "/Myportfolio-/static/js/main.534f754a.js.map",
     "487.bb36206c.chunk.css.map": "/Myportfolio-/static/css/487.bb36206c.chunk.css.map",
     "487.195575ee.chunk.js.map": "/Myportfolio-/static/js/487.195575ee.chunk.js.map",
@@ -33,7 +33,7 @@
     "990.965fce68.chunk.js.map": "/Myportfolio-/static/js/990.965fce68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77c60e1d.css",
+    "static/css/main.f917aba9.css",
     "static/js/main.534f754a.js"
   ]
 }
