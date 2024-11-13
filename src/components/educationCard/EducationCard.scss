@@ -3,6 +3,7 @@
 .education-card {
   display: flex;
   flex-direction: row;
+  margin-bottom: 1rem; /* إضافة هامش بين البطاقات */
 }
 
 .education-card:hover + .education-card-border {
@@ -32,12 +33,12 @@
 
 .education-text-school {
   margin: 0;
-  font-size: 28px;
+  font-size: 2vw; /* استخدام وحدة vw لتحديد حجم النص */
   font-weight: 700;
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
-  height: 27px;
+  height: 2vw; /* استخدام وحدة vw لتحديد حجم النص */
 }
 
 .education-roundedimg {
@@ -56,7 +57,7 @@
 .education-text-subHeader {
   color: $textColor;
   font-weight: 700;
-  font-size: 19px;
+  font-size: 1.8vw; /* استخدام وحدة vw لتحديد حجم النص */
   margin: 0px;
   padding-top: 0.8rem;
   line-height: normal;
@@ -64,11 +65,10 @@
 
 .education-text-duration {
   color: $titleColor;
-  font-size: 19px;
+  font-size: 1.8vw; /* استخدام وحدة vw لتحديد حجم النص */
   margin: 0px;
   padding-top: 0.5rem;
 }
-
 .education-text-desc {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
