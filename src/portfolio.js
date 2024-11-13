@@ -56,8 +56,8 @@ const socialMediaLinks = {
 };
 // Skills Section
 const skillsSection = {
-  title: "مالذي الذي أقوم",
-  subTitle: '🌟 **مطور برامج Full Stack مبدع بخبرة واسعة يسعى لاستكشاف وتطبيق أحدث التقنيات!** 🚀',
+  title: "مالذي الذي أقوم به",
+  subTitle: '🌟 **مبدع بخبرة Full Stack مطور برامج واسعة اسعى لاستكشاف وتطبيق أحدث التقنيات!** 🚀',
   skills: [
     emoji("⚡ تطوير واجهات مستخدم تفاعلية ومبتكرة لتطبيقات الويب والمحمول."),
     emoji("🔍 تصميم وتطوير الأنظمة المكتبية المحاسبية لتحسين كفاءة الأعمال."),
@@ -157,7 +157,7 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "85%"
+      progressPercentage: "95%"
     },
     {
       Stack: "Programming",
@@ -166,11 +166,11 @@ const techStack = {
     {
       
      Stack: "Database Management",
-      progressPercentage: "75%"
+      progressPercentage: "85%"
     }, 
     {
       Stack: "Mobile Development",
-      progressPercentage: "70%"
+      progressPercentage: "50%"
     }
       
   ],
