@@ -252,8 +252,8 @@ const openSource = {
 
 
 const bigProjects = {
-    title: "المشاريع الكبيرة",
-  subtitle: "بعض الشركات والمشاريع الناجحة التي ساعدت في تطوير تقنيتها",
+    title: "مشاريعي البارزة ",
+  subtitle: "نظرة على بعض المشاريع والشركات الناجحة التي قمت بإنشائها والتي ساهمت في تطوير تقنياتها بنجاح.",
   projects: [
     {
       image: require("./assets/images/rawaLadyLogo.png"),
@@ -308,7 +308,17 @@ const bigProjects = {
         }
       ]
     },
-
+{
+      image: require("./assets/images/alhajzLogo.jpg"),
+      projectName: "منصة الحجز الأوفر ",
+      projectDesc: "تصميم وبرمجة نظام إلكتروني للسفريات والسياحة وحجز تذاكر باصات النقل الجماعي والفنادق والطيران.",
+      footerLink: [
+        {
+          name: "زيارة الموقع",
+          url: "http://alhajzalufer.com/"
+        }
+      ]
+    },
 
 
     { image: require("./assets/images/alOteibiAutoPartsLogo.jpeg"),
