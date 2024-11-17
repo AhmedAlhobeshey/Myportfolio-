@@ -55,48 +55,7 @@ const socialMediaLinks = {
   display: true // Set true to display this section, defaults to false
 };
 // Skills Section
-const skillsSection = {
-  title: "مالذي الذي أقوم به",
-  subTitle: '🌟 **مبدع بخبرة Full Stack مطور برامج واسعة اسعى لاستكشاف وتطبيق أحدث التقنيات!** 🚀',
-  skills: [
-    emoji("⚡ تطوير واجهات مستخدم تفاعلية ومبتكرة لتطبيقات الويب والمحمول."),
-    emoji("🔍 تصميم وتطوير الأنظمة المكتبية المحاسبية لتحسين كفاءة الأعمال."),
-    emoji("💾 إدارة قواعد البيانات لضمان توافر البيانات وسهولة الوصول إليها."),
-    emoji("📱 تصميم وبرمجة تطبيقات الهاتف."),
-    emoji("🔧 إعداد التقارير وتحليل البيانات."),
-    emoji("🛠️ تقديم الدعم الفني وصيانة مواقع الشركة."),
-    emoji("🚛 ربط المتاجر الإلكترونية بشركات الشحن."),
-    emoji("💳 تكامل حلول الدفع الإلكتروني."),
-    emoji("🛒 تطوير منصات التجارة الإلكترونية.")
-  ],
-  softwareSkills: [
-    {
-      skillName: "Laravel",
-      fontAwesomeClassname: "fab fa-laravel"
-    },
-    {
-      skillName: "Flutter",
-      fontAwesomeClassname: "fab fa-flutter"
-    },
-    {
-      skillName: "C#",
-      fontAwesomeClassname: "fas fa-code"
-    },
-    {
-      skillName: "Vb.Net",
-      fontAwesomeClassname: "fas fa-code"
-    },
-    {
-      skillName: "WordPress",
-      fontAwesomeClassname: "fab fa-wordpress"
-    },
-    {
-      skillName: "SQL-Database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "Oracle",
-      fontAwesomeClassname: "fas fa-database"
+
 const skillsSection = {
   title: "مالذي أقوم به",
   subTitle: '🌟 **مبدع بخبرة Full Stack مطور برامج واسعة اسعى لاستكشاف وتطبيق أحدث التقنيات!** 🚀',
