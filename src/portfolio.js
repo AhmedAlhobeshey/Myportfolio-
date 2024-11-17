@@ -97,10 +97,60 @@ const skillsSection = {
     {
       skillName: "Oracle",
       fontAwesomeClassname: "fas fa-database"
+const skillsSection = {
+  title: "مالذي أقوم به",
+  subTitle: '🌟 **مبدع بخبرة Full Stack مطور برامج واسعة اسعى لاستكشاف وتطبيق أحدث التقنيات!** 🚀',
+  skills: [
+    emoji("⚡ تطوير واجهات مستخدم تفاعلية ومبتكرة لتطبيقات الويب والمحمول."),
+    emoji("🔍 تصميم وتطوير الأنظمة المكتبية المحاسبية لتحسين كفاءة الأعمال."),
+    emoji("💾 إدارة قواعد البيانات لضمان توافر البيانات وسهولة الوصول إليها."),
+    emoji("📱 تصميم وبرمجة تطبيقات الهاتف."),
+    emoji("💳 تكامل حلول الدفع الإلكتروني."),
+    emoji("🛒 تطوير منصات التجارة الإلكترونية."),
+    emoji("🚛 ربط المتاجر الإلكترونية بشركات الشحن."),
+    emoji("🔧 إعداد التقارير وتحليل البيانات."),
+    emoji("🛠️ تقديم الدعم الفني وصيانة مواقع الشركة.")
+  ],
+  softwareSkills: [
+    {
+      skillName: "Laravel",
+      fontAwesomeClassname: "fab fa-laravel"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      skillName: "ASP.NET", // أهمية ASP.NET
+      fontAwesomeClassname: "fab fa-microsoft"
+    },
+    {
+      skillName: "Flutter",
+      fontAwesomeClassname: "fab fa-flutter"
+    },
+    {
+      skillName: "Java", // أهمية جافا
+      fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "C#",
+      fontAwesomeClassname: "fas fa-code"
+    },
+    {
+      skillName: "Vb.Net",
+      fontAwesomeClassname: "fas fa-code"
+    },
+    {
+      skillName: "Crystal Reports", // إضافة مهارة Crystal Reports
+      fontAwesomeClassname: "fas fa-chart-line"
+    },
+    {
+      skillName: "SQL-Database",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "Oracle",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "WordPress",
+      fontAwesomeClassname: "fab fa-wordpress"
     },
     {
       skillName: "Jasper",
@@ -113,6 +163,10 @@ const skillsSection = {
     {
       skillName: "Linux",
       fontAwesomeClassname: "fas fa-linux"
+    },
+    {
+      skillName: "npm",
+      fontAwesomeClassname: "fab fa-npm"
     },
     {
       skillName: "Git",
