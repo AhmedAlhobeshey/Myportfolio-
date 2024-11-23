@@ -224,7 +224,7 @@ const workExperiences = {
       ]
     },
 {
-  "role": "مطور برامج ",
+  "role": "مطور برمجيات ",
   "company": "Ysys Co.",
   "companylogo": require("./assets/images/ysysLogo.jpeg"),
   "date": "أكتوبر 2021 – ديسمبر 2022",
@@ -234,7 +234,7 @@ const workExperiences = {
     "إنشاء وتطوير منصة لبناء وإدارة المتاجر الإلكترونية.",
     "تحليل بيانات العملاء وتحويل المتطلبات إلى حلول برمجية فعالة."
   ]
-}
+}, 
     {
       role: " Full Stack Developer ",
       company: "مؤسسة اللؤلؤ الأسود للعود والعطور - السعودية - الرياض",
