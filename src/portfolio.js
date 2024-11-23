@@ -250,6 +250,7 @@ const workExperiences = {
   ]
 };
     
+/*
 
 
 /* Your Open Source Section to View Your Github Pinned Projects
@@ -309,17 +310,7 @@ const bigProjects = {
       ]
     },
 
-{
-      image: require("./assets/images/alhajzLogo.jpg"),
-      projectName: "منصة الحجز الأوفر ",
-      projectDesc: "تصميم وبرمجة نظام إلكتروني للسفريات والسياحة وحجز تذاكر باصات النقل الجماعي والفنادق والطيران.",
-      footerLink: [
-        {
-          name: "زيارة الموقع",
-          url: "http://alhajzalufer.com/"
-        }
-      ]
-    },
+
 
 
     { image: require("./assets/images/alOteibiAutoPartsLogo.jpeg"),
