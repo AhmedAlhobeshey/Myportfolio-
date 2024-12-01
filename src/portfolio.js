@@ -44,7 +44,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://ahmedalhobeshey.github.io/Myportfolio-/",
-  linkedin: "https://ahmedalhobeshey.github.io/Myportfolio-/",
+  linkedin: "https://www.linkedin.com/in/%D8%A7%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D9%87%D9%8A%D9%88%D8%A8-a76a57243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   gmail: "ahmed20122012123@gmail.com",
   gitlab: "https://ahmedalhobeshey.github.io/Myportfolio-/",
   facebook: "https://ahmedalhobeshey.github.io/Myportfolio-/",
