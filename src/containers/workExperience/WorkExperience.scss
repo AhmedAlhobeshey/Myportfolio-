@@ -2,7 +2,7 @@
 
 .experience-cards-div {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(290px, 100%), 1fr));
   gap: 1rem;
   padding: 1rem;
   margin: 0 auto;
@@ -10,7 +10,7 @@
 }
 
 .experience-heading {
-  font-size: 3vw; /* استخدام وحدة vw لتحديد حجم النص */
+  font-size: clamp(1.75rem, 4vw, 3.5rem);
   font-weight: 400;
   margin-bottom: 1rem; /* إضافة بعض المساحة بين العنوان والعناصر التالية */
   text-align: center; /* تأكد من أن العنوان يتمركز بشكل جيد */
@@ -27,19 +27,19 @@
 
 .experience-container > * {
   flex: 1;
-  min-width: 290px; /* ضمان أن العناصر لا تصبح أصغر من حجم معين */
+  min-width: min(290px, 100%);
 }
 
 /* Media Query */
 @media (max-width: 1380px) {
   .experience-heading {
-    font-size: 4vw; /* تكبير حجم النص للشاشات المتوسطة */
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
   }
 }
 
 @media (max-width: 768px) {
   .experience-heading {
-    font-size: 5vw; /* تكبير حجم النص للشاشات الصغيرة */
+    font-size: clamp(1.6rem, 6vw, 2rem);
     text-align: center;
   }
   .experience-cards-div {

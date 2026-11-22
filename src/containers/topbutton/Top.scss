@@ -16,6 +16,16 @@
   font-size: 25px;
 }
 
+@media (max-width: 768px) {
+  #topButton {
+    padding: 10px 12px;
+    font-size: 18px;
+    right: 15px;
+    bottom: 15px;
+    border-radius: 12px;
+  }
+}
+
 #topButton:hover {
   background-color: $topButtonHover;
   transition: all ease-in-out 0.2s;

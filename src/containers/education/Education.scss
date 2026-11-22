@@ -1,7 +1,7 @@
 @import "../../_globalColor";
 
 .education-heading {
-  font-size: 3vw; /* استخدام وحدة vw لتحديد حجم النص */
+  font-size: clamp(1.75rem, 4vw, 3.5rem);
   font-weight: 400;
   text-align: center; /* تأكد من أن العنوان يتمركز بشكل جيد */
   margin-bottom: 1.5rem; /* إضافة بعض المساحة بين العنوان والعناصر التالية */
@@ -33,7 +33,7 @@
     padding-top: 0px;
   }
   .education-heading {
-    font-size: 4vw; /* تكبير حجم النص للشاشات المتوسطة */
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
   }
   .education-text-subtitle {
     font-size: 18px;
@@ -46,7 +46,7 @@
     padding-top: 0px;
   }
   .education-heading {
-    font-size: 5vw; /* تكبير حجم النص للشاشات الصغيرة */
+    font-size: clamp(1.6rem, 6vw, 2rem);
     text-align: center;
   }
   .education-text-subtitle {
