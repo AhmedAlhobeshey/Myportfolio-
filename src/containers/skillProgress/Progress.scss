@@ -20,7 +20,7 @@
   overflow: hidden;
 }
 .skill {
-  line-height: 3.5vw;
+  line-height: clamp(2rem, 3.5vw, 3.5rem);
 }
 .skill-bars {
   font-size: 28px;
